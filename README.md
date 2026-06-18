@@ -21,3 +21,19 @@ Created during a UI/UX Design Bootcamp Workshop.
 
 ## Figma Prototype 
 https://www.figma.com/design/6KZzQqxz75jSIJaLLfGlOx/rejanirks123-s-team-library?node-id=0-1&t=1c9B5NzWEtAzTuEl-1
+
+## Ideation
+
+![Ideation](ideation.jpg)
+
+## User Flow
+
+![User Flow](userflow.jpg)
+
+## Wireframe
+
+![Wireframe](wireframe.jpg)
+
+## UI Design
+
+![UI Design](UI Interface.jpg)
