@@ -36,4 +36,4 @@ https://www.figma.com/design/6KZzQqxz75jSIJaLLfGlOx/rejanirks123-s-team-library?
 
 ## UI Design
 
-![UI Design](UI Interface.jpg)
+![UI Design](UIInterface.jpg)
